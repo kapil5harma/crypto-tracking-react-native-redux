@@ -1,6 +1,6 @@
 # Crypto Tracking
 
-## - An application to track various crypto currencies.
+## An application to track various crypto currencies.
 
 To run the project in a simulator:
 
